@@ -55,12 +55,12 @@ To contribute to a SOC team, gain real-world incident response experience, and g
 
 ## Certifications
 
-- [CyberOps Associate](https://www.credly.com/badges/312a0b47-7d2f-44a1-849f-fb2c19f2ae56) — Cisco (Jun 2023)  
-- [Network Security](https://www.credly.com/badges/d8166509-f705-4fbc-ae5a-cf27680c4041) — Cisco (Nov 2023)  
-- [CCNAv7: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/f6468c5f-b1bc-4d60-a42a-2636ad293470) — Cisco (Feb 2023)  
-- [IT Essentials: PC Hardware and Software](https://www.credly.com/badges/12b4f7b3-29b2-4bd1-90cc-6b3d1f11d676) — Cisco (Feb 2023)  
-- [Cybersecurity Essentials](https://www.credly.com/badges/03bcf2e9-c3bc-4df9-91c0-985c0bb00fe3) — Cisco (Sep 2022)  
-- [Introduction to Cybersecurity](https://www.credly.com/badges/6a99cf14-5b78-4f5d-9db5-b39e038fa6cb) — Cisco (Sep 2022)  
+- Cisco CyberOps Associate – Issued Jun 2023  
+- Cisco Network Security – Issued Nov 2023  
+- Cisco CCNAv7: Switching, Routing, and Wireless Essentials – Issued Feb 2023  
+- Cisco IT Essentials: PC Hardware and Software – Issued Feb 2023  
+- Cisco Cybersecurity Essentials – Issued Sep 2022  
+- Cisco Introduction to Cybersecurity – Issued Sep 2022  
 - **CompTIA Security+** – *in progress*
 
 ---
