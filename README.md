@@ -32,6 +32,7 @@ To contribute to a SOC team, gain real-world incident response experience, and g
 
 ## Skills
 
+- **Cloud Identity & Security** – Azure Entra ID: MFA, Conditional Access, RBAC, Administrative Units, hybrid identity setup 
 - **Security Analysis** – SIEM tools, log review, behavioral detection
 - **Python Scripting** – Automation, threat modeling, data processing
 - **Machine Learning** – Applied to DDoS/phishing detection use cases
