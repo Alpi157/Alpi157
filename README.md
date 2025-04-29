@@ -24,10 +24,9 @@ To contribute to a SOC team, gain real-world incident response experience, and g
 | [SAFE_SCAN](https://github.com/Alpi157/SAFE_SCAN) | Document authenticity verification system built with Python. |
 
  Upcoming projects include:
+- **TryHackMe-based incident reports** (documenting investigations)
 - **GoPhish phishing simulation** (social engineering awareness)
 - **Host intrusion detection** with OSSEC/Wazuh (log monitoring + alerting)
-- **Splunk dashboarding** (SOC visibility)
-- **TryHackMe-based incident reports** (documenting investigations)
 
 ---
 
