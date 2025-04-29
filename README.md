@@ -19,7 +19,7 @@ To contribute to a SOC team, gain real-world incident response experience, and g
 | [Threat Detection & Investigation Using Splunk](https://github.com/Alpi157/soc-threat-detection-repo) | Lab demonstrating multi-source log collection, attack detection, incident response using Splunk. |
 | [Azure Entra ID Security Lab](https://github.com/Alpi157/azure-security-lab) | A lab that simulates an enterprise‑grade IAM environment in Microsoft Azure. |
 | [ML‑Enhanced Security in P2P Overlay Networks](https://github.com/Alpi157/security-for-kademlia-P2P) | Adaptive, self‑healing security for decentralized Kademlia overlays written in Python. |
-| [DDoS Detection System](https://github.com/Alpi157/ddos_detection_system) | ML-based detection of distributed denial-of-service attacks using Markov Chains. |
+| [DDoS Detection System](https://github.com/Alpi157/ddos_detection_system) | ML-based detection of DDoS attacks and mitigation using Markov Chains. |
 | [Phishing Dataset Analysis](https://github.com/Alpi157/phishing_dataset_analysis) | Exploratory analysis of phishing emails to identify behavioral indicators. |
 | [SAFE_SCAN](https://github.com/Alpi157/SAFE_SCAN) | Document authenticity verification system built with Python. |
 
