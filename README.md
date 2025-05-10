@@ -2,7 +2,7 @@
 
 I’m a Master’s student at the University of Victoria, focused on **Telecommunications and Information Security**, and currently seeking a cybersecurity co-op position in Canada, ideally in a **junior cybersecurity specialist** role.
 
-I have a technical foundation in cybersecurity, experience with machine learning, and a growing body of practical security projects—all aimed at building creative, resilient solutions in the security space.
+I have a technical foundation in cybersecurity, experience with machine learning, and a growing body of practical security projects, all aimed at building creative, resilient solutions in the security space.
 
 ---
 
