@@ -63,7 +63,7 @@ To contribute to a SOC team, gain real-world incident response experience, and g
 - Cisco IT Essentials: PC Hardware and Software – Issued Feb 2023  
 - Cisco Cybersecurity Essentials – Issued Sep 2022  
 - Cisco Introduction to Cybersecurity – Issued Sep 2022  
-- ISC2 Certified in Cybersecurity – Issued April 2025
+- ISC2 Certified in Cybersecurity – Issued Jun 2025
 
 ---
 
