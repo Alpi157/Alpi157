@@ -1,14 +1,13 @@
 # 👋 Hi, I’m Alpar Arman
 
-I’m a Master’s student at the University of Victoria, focused on **Telecommunications and Information Security**, and currently seeking a cybersecurity co-op position in Canada, ideally in a **junior cybersecurity specialist** role.
-
-I have a technical foundation in cybersecurity, experience with machine learning, and a growing body of practical security projects, all aimed at building creative, resilient solutions in the security space.
+I’m a Master’s student at the University of Victoria specializing in Telecommunications and Information Security, with a strong focus on applying AI and machine learning to real-world security and system design problems.
+I’m currently seeking a **co-op/internship** in **cybersecurity**, **AI/ML**, or **applied research** roles.
 
 ---
 
 ## Objective
 
-To contribute to a SOC team, gain real-world incident response experience, and grow into a high-performing cybersecurity specialist with both technical depth and operational understanding.
+To join a forward-thinking team where I can apply my technical skills in AI and security to build resilient, intelligent systems.
 
 ---
 
@@ -42,16 +41,14 @@ To contribute to a SOC team, gain real-world incident response experience, and g
 
 ## Tools & Technologies
 
-**Languages & Development**
-- Python
-- C++
-- Jupyter Notebooks
-- Bash
+## Skills & Tools
 
-**Other**
-- Git / GitHub
-- Linux / Ubuntu
-- Telegram Bot API
+**Languages**: Python, C++, Bash  
+**Frameworks**: PyTorch, Scikit-learn, ONNX, Flask, Chart.js  
+**Security Tools**: Wireshark, Splunk, OSSEC, Sysmon  
+**Cloud & IAM**: Azure Entra ID, RBAC, Conditional Access  
+**Data Science**: Jupyter, Pandas, NLTK, Matplotlib  
+**Other**: Git, Linux, Markdown, Telegram API
 
 ---
 
