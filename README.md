@@ -41,14 +41,29 @@ To join a forward-thinking team where I can apply my technical skills in AI and 
 
 ## Tools & Technologies
 
-## Skills & Tools
+### **Languages & Development**
+- Python  
+- C++  
+- Jupyter Notebooks  
+- Bash  
+- HTML/CSS  
+- JavaScript  
+- SQL   
 
-**Languages**: Python, C++, Bash  
-**Frameworks**: PyTorch, Scikit-learn, ONNX, Flask, Chart.js  
-**Security Tools**: Wireshark, Splunk, OSSEC, Sysmon  
-**Cloud & IAM**: Azure Entra ID, RBAC, Conditional Access  
-**Data Science**: Jupyter, Pandas, NLTK, Matplotlib  
-**Other**: Git, Linux, Markdown, Telegram API
+### **Other**
+- Git / GitHub  
+- Linux / Ubuntu  
+- Telegram Bot API  
+- Azure  
+- Splunk  
+- Wireshark  
+- Docker    
+- ONNX  
+- Scikit-learn  
+- PyTorch  
+- TensorFlow  
+- Flask  
+
 
 ---
 
