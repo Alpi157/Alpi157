@@ -20,6 +20,7 @@ To join a forward-thinking team where I can apply my technical skills in AI and 
 | [ML‑Enhanced Security in P2P Overlay Networks](https://github.com/Alpi157/security-for-kademlia-P2P) | Adaptive, self‑healing security for decentralized Kademlia overlays written in Python. |
 | [DDoS Detection System](https://github.com/Alpi157/ddos_detection_system) | ML-based detection of DDoS attacks and mitigation using Markov Chains. |
 | [Phishguard Extension](https://github.com/Alpi157/phishguard_extention) | Anti-phishing and malicious link protection extension. |
+| [Forensic-Memory-Analysis](https://github.com/Alpi157/forensic-memory-analysis) | Forensic investigation of a compromised Windows machine. |
 | [Phishing Dataset Analysis](https://github.com/Alpi157/phishing_dataset_analysis) | Exploratory analysis of phishing emails to identify behavioral indicators. |
 | [SAFE_SCAN](https://github.com/Alpi157/SAFE_SCAN) | Document authenticity verification system built with Python. |
 
