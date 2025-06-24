@@ -63,7 +63,8 @@ To join a forward-thinking team where I can apply my technical skills in AI and 
 - Scikit-learn  
 - PyTorch  
 - TensorFlow  
-- Flask  
+- Flask
+- Volatility
 
 
 ---
