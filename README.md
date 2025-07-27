@@ -22,6 +22,7 @@ To join a forward-thinking team where I can apply my technical skills in AI and 
 | [Phishguard Extension](https://github.com/Alpi157/phishguard_extention) | Anti-phishing and malicious link protection extension. |
 | [Forensic-Memory-Analysis](https://github.com/Alpi157/forensic-memory-analysis) | Forensic investigation of a compromised Windows machine. |
 | [Phishing Dataset Analysis](https://github.com/Alpi157/phishing_dataset_analysis) | Exploratory analysis of phishing emails to identify behavioral indicators. |
+| [Evolving-plasticity-sim](https://github.com/Alpi157/evolving-plasticity-sim) | Simulation framework for studying how neural plasticity co-evolves with genetically encoded behavior in non-stationary environments. |
 | [SAFE_SCAN](https://github.com/Alpi157/SAFE_SCAN) | Document authenticity verification system built with Python. |
 
  Upcoming projects include:
