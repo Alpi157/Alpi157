@@ -41,6 +41,24 @@ To contribute to projects at the intersection of **AI and cybersecurity**, combi
 
 ---
 
+## Work Experience
+
+**Researcher – Astana IT University** (Feb 2023 – Sep 2023)  
+- Designed and led the development of an **intelligent question-answering system** using NLP and ML.  
+- Achieved **95.3% accuracy** and **94.4% precision** on user queries with adaptive response ranking.  
+- Improved system adaptability by **18%** through iterative evaluation and retraining.  
+- Delivered a cross-platform UI and published a reproducible evaluation framework.  
+
+---
+
+## Publications
+
+- *Systemic approach to optimizing natural language processing technologies in Astana IT University's admissions process* (2024)  
+  [Read on ResearchGate](https://www.researchgate.net/publication/383163802_Systemic_approach_to_optimizing_natural_language_processing_technologies_in_Astana_IT_University's_admissions_process)
+
+
+---
+
 ## Tools & Technologies
 
 ### **Languages & Development**
