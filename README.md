@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Alpar Arman
 
 I’m a Master’s student at the University of Victoria specializing in Telecommunications and Information Security, with a strong focus on applying AI and machine learning to real-world security and system design problems.
-I’m currently seeking a **co-op/internship** in **cybersecurity**, **AI/ML**, or **applied research** roles.
+Currently gaining hands-on experience through a **co‑op**, while continuing personal projects.
 
 ---
 
 ## Objective
 
-To join a forward-thinking team where I can apply my technical skills in AI and security to build resilient, intelligent systems.
+To contribute to projects at the intersection of **AI and cybersecurity**, combining academic research with real-world problem solving to develop innovative, secure, and scalable systems.
 
 ---
 
@@ -82,3 +82,6 @@ To join a forward-thinking team where I can apply my technical skills in AI and 
 
 ---
 
+## Contact Me
+- Email: [alpar@uvic.ca](mailto:alpar@uvic.ca)  
+- LinkedIn: [linkedin.com/in/alpar-arman](https://www.linkedin.com/in/alpar-arman/)  
