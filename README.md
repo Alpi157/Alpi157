@@ -15,6 +15,7 @@ To contribute to projects at the intersection of **AI and cybersecurity**, combi
 
 | Project | Description |
 |--------|-------------|
+| [Multi-Layer Anti-Fraud Platform](https://github.com/Alpi157/ForteShieldAI) | An end-to-end solution that covers the full path from raw data to the analyst’s workstation: offline training of model, real-time transaction scoring, dashboards, model governance loop with retrain, champion/challenger setup, LLM assistant. |
 | [Threat Detection & Investigation Using Splunk](https://github.com/Alpi157/soc-threat-detection-repo) | Lab demonstrating multi-source log collection, attack detection, incident response using Splunk. |
 | [Azure Entra ID Security Lab](https://github.com/Alpi157/azure-security-lab) | A lab that simulates an enterprise‑grade IAM environment in Microsoft Azure. |
 | [ML‑Enhanced Security in P2P Overlay Networks](https://github.com/Alpi157/security-for-kademlia-P2P) | Adaptive, self‑healing security for decentralized Kademlia overlays written in Python. |
