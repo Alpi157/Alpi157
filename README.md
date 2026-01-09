@@ -16,19 +16,15 @@ To contribute to projects at the intersection of **AI and cybersecurity**, combi
 | Project | Description |
 |--------|-------------|
 | [Multi-Layer Anti-Fraud Platform](https://github.com/Alpi157/ForteShieldAI) | An end-to-end solution that covers the full path from raw data to the analyst’s workstation: offline training of model, real-time transaction scoring, dashboards, model governance loop with retrain, champion/challenger setup, LLM assistant. |
-| [Threat Detection & Investigation Using Splunk](https://github.com/Alpi157/soc-threat-detection-repo) | Lab demonstrating multi-source log collection, attack detection, incident response using Splunk. |
+| [SecureText Security Lab](https://github.com/Alpi157/securetext-security-lab/tree/main) | A 3-part security lab that upgrades an insecure Python chat app into a secure, modern messaging system. Includes real attack demos and fixes: bcrypt password storage, HMAC integrity, TOTP MFA, GitHub OAuth, RBAC + Zero Trust session controls, logging/monitoring, and end-to-end encryption with ECDH + HKDF + AES-GCM + session key lifecycle. |
+| [Threat Detection & Investigation Using Splunk](https://github.com/Alpi157/soc-threat-detection-repo) | Mini-SOC homelab built with Splunk: ingest Windows Sysmon + Apache logs, simulate real attacks (SSH brute-force, web enumeration, POST exfiltration), detect them with SPL, dashboards, alerts, and an incident-response playbook. |
+| [Phishguard Extension](https://github.com/Alpi157/phishguard_extention) | A hybrid anti-phishing browser extension + local Flask server that detects malicious emails/links with an on-device ONNX NLP model (RuBERT), optional GPT explanations, HTML/JS analysis, and SOC-style incident logging + dashboard. |
 | [Azure Entra ID Security Lab](https://github.com/Alpi157/azure-security-lab) | A lab that simulates an enterprise‑grade IAM environment in Microsoft Azure. |
-| [ML‑Enhanced Security in P2P Overlay Networks](https://github.com/Alpi157/security-for-kademlia-P2P) | Adaptive, self‑healing security for decentralized Kademlia overlays written in Python. |
+| [ML‑Enhanced Security in P2P Overlay Networks](https://github.com/Alpi157/security-for-kademlia-P2P) | ML-enhanced security lab for Kademlia-based P2P overlays: attack simulation (DDoS/Sybil/Eclipse/poisoning), Random Forest detection, RL-based adaptive mitigation, and a live Flask + Chart.js dashboard for observability. |
 | [DDoS Detection System](https://github.com/Alpi157/ddos_detection_system) | ML-based detection of DDoS attacks and mitigation using Markov Chains. |
-| [Phishguard Extension](https://github.com/Alpi157/phishguard_extention) | Anti-phishing and malicious link protection extension. |
 | [Forensic-Memory-Analysis](https://github.com/Alpi157/forensic-memory-analysis) | Forensic investigation of a compromised Windows machine. |
 | [Phishing Dataset Analysis](https://github.com/Alpi157/phishing_dataset_analysis) | Exploratory analysis of phishing emails to identify behavioral indicators. |
 | [Evolving-plasticity-sim](https://github.com/Alpi157/evolving-plasticity-sim) | Simulation framework for studying how neural plasticity co-evolves with genetically encoded behavior in non-stationary environments. |
-| [SAFE_SCAN](https://github.com/Alpi157/SAFE_SCAN) | Document authenticity verification system built with Python. |
-
- Upcoming projects include:
-- **TryHackMe-based incident reports** (documenting investigations)
-- **Host intrusion detection** with OSSEC/Wazuh (log monitoring + alerting)
 
 ---
 
