@@ -1,13 +1,25 @@
 # 👋 Hi, I’m Alpar Arman
 
-I’m a Master’s student at the University of Victoria specializing in Telecommunications and Information Security, with a strong focus on applying AI and machine learning to real-world security and system design problems.
-Currently gaining hands-on experience through a **co‑op**, while continuing personal projects.
+MEng candidate at the University of Victoria (Telecommunications & Information Security). I work on practical cybersecurity and applied ML projects, SOC-style detection labs (Splunk/Sysmon) and RAG chatbots with role-based access control.
 
 ---
 
-## Objective
+## Focus areas
+- **Security Operations (SOC) / Detection Engineering:** log ingestion, SPL detections, dashboards, alert triage
+- **DFIR / Investigations:** evidence handling, artifact triage, timeline analysis (Windows + mobile)
+- **Applied ML for Security:** phishing/fraud/DDoS detection experiments + evaluation
+- **LLM apps for enterprise knowledge:** RAG chatbots with **RBAC** and document retrieval (Google Drive/SharePoint patterns)
 
-To contribute to projects at the intersection of **AI and cybersecurity**, combining academic research with real-world problem solving to develop innovative, secure, and scalable systems.
+---
+
+If you’re a recruiter/hiring manager, these projects are the fastest way to evaluate my work:
+- [Threat Detection & Investigation Using Splunk](https://github.com/Alpi157/soc-threat-detection-repo) (detections, dashboards, IR playbook)
+- [Digital Forensics: Blackmail Investigation](https://github.com/Alpi157/dfir-artifact-recovery-lab) (end-to-end DFIR workflow)
+- [Phishguard Extension](https://github.com/Alpi157/phishguard_extention) (on-device phishing classification + incident logging)
+- [Multi-Layer Anti-Fraud Platform](https://github.com/Alpi157/ForteShieldAI) (ML scoring + analyst workflow demo)
+
+> All security testing is done in **authorized lab environments** and shared for educational purposes.
+
 
 ---
 
@@ -33,70 +45,32 @@ To contribute to projects at the intersection of **AI and cybersecurity**, combi
 
 ## Skills
 
-- **Cloud Identity & Security** – Azure Entra ID: MFA, Conditional Access, RBAC, Administrative Units, hybrid identity setup 
-- **Security Analysis** – SIEM tools, log review, behavioral detection
-- **Python Scripting** – Automation, threat modeling, data processing
-- **Machine Learning** – Applied to DDoS/phishing detection use cases
-- **Creative Problem Solving** – Leveraging design and marketing background in secure user-centric systems
+**LLM / RAG:** RAG pipelines, embeddings, chunking, retrieval, RBAC, prompt engineering, OpenAI API, Hugging Face, LLaMA 3 (integration)  
+**SOC / DFIR:** Splunk (SPL), Sysmon, Windows Event Logs, Apache logs, alert triage (lab), IR playbooks, Autopsy/FTK Imager  
+**Cloud / IAM:** Microsoft Entra ID (Azure AD), MFA, RBAC, joiner/mover/leaver, access troubleshooting  
+**Dev / Tools:** Python, FastAPI/Flask, REST APIs, SQL (basic), pandas/NumPy, Git/GitHub, Linux/Ubuntu, Docker (basic), Wireshark, ONNX
 
 ---
 
-## Work Experience
+## Experience (high level)
+- **Carbon Engineering (Co-op, BC):** supported knowledge automation (SharePoint search/retrieval workflows) and assisted with a **Copilot service desk chatbot** (testing + troubleshooting); also handled Entra ID identity operations (JML, MFA support).
+- **Freelance AI Chatbot Developer (2023–2024):** designed and deployed multilingual chatbots (EN/RU/KZ) for client organizations; integrations with Telegram/WhatsApp/web.
+- **Astana IT University (Research, 2023):** NLP/ML Q&A system; built evaluation workflow and iterative improvement process.
 
-**Researcher – Astana IT University** (Feb 2023 – Sep 2023)  
-- Designed and led the development of an **intelligent question-answering system** using NLP and ML.  
-- Achieved **95.3% accuracy** and **94.4% precision** on user queries with adaptive response ranking.  
-- Improved system adaptability by **18%** through iterative evaluation and retraining.  
-- Delivered a cross-platform UI and published a reproducible evaluation framework.  
 
 ---
+
+## Credentials
+- **ISC2 Certified in Cybersecurity (CC)** (2025)
+- Cisco CyberOps Associate; Cisco Network Security; CCNAv7 SRWE; Cybersecurity Essentials
+
+---
+
 
 ## Publications
 
 - *Systemic approach to optimizing natural language processing technologies in Astana IT University's admissions process* (2024)  
   [Read on ResearchGate](https://www.researchgate.net/publication/383163802_Systemic_approach_to_optimizing_natural_language_processing_technologies_in_Astana_IT_University's_admissions_process)
-
-
----
-
-## Tools & Technologies
-
-### **Languages & Development**
-- Python  
-- C++  
-- Jupyter Notebooks  
-- Bash  
-- HTML/CSS  
-- JavaScript  
-- SQL   
-
-### **Other**
-- Git / GitHub  
-- Linux / Ubuntu  
-- Telegram Bot API  
-- Azure  
-- Splunk  
-- Wireshark  
-- Docker    
-- ONNX  
-- Scikit-learn  
-- PyTorch  
-- TensorFlow  
-- Flask
-- Volatility
-
-
----
-
-## Certifications
-
-- Cisco CyberOps Associate – Issued Jun 2023  
-- Cisco Network Security – Issued Nov 2023  
-- Cisco CCNAv7: Switching, Routing, and Wireless Essentials – Issued Feb 2023  
-- Cisco IT Essentials: PC Hardware and Software – Issued Feb 2023  
-- Cisco Cybersecurity Essentials – Issued Sep 2022  
-- Cisco Introduction to Cybersecurity – Issued Sep 2022  
-- ISC2 Certified in Cybersecurity – Issued Jun 2025
 
 ---
 
