@@ -13,10 +13,11 @@ MEng candidate at the University of Victoria (Telecommunications & Information S
 ---
 
 If you’re a recruiter/hiring manager, these projects are the fastest way to evaluate my work:
+- [Identity Threat Detection & Response](https://github.com/Alpi157/sentinel-entra-identity-detection-response) (Sentinel + Entra ID + KQL + SOAR-safe workflows)
 - [Threat Detection & Investigation Using Splunk](https://github.com/Alpi157/soc-threat-detection-repo) (detections, dashboards, IR playbook)
 - [Digital Forensics: Blackmail Investigation](https://github.com/Alpi157/dfir-artifact-recovery-lab) (end-to-end DFIR workflow)
-- [Phishguard Extension](https://github.com/Alpi157/phishguard_extention) (on-device phishing classification + incident logging)
 - [Multi-Layer Anti-Fraud Platform](https://github.com/Alpi157/ForteShieldAI) (ML scoring + analyst workflow demo)
+- [Phishguard Extension](https://github.com/Alpi157/phishguard_extention) (on-device phishing classification + incident logging)
 
 > All security testing is done in **authorized lab environments** and shared for educational purposes.
 
@@ -28,6 +29,7 @@ If you’re a recruiter/hiring manager, these projects are the fastest way to ev
 | Project | Description |
 |--------|-------------|
 | [Multi-Layer Anti-Fraud Platform](https://github.com/Alpi157/ForteShieldAI) | An end-to-end solution that covers the full path from raw data to the analyst’s workstation: offline training of model, real-time transaction scoring, dashboards, model governance loop with retrain, champion/challenger setup. |
+| [Identity Threat Detection & Response Lab](https://github.com/Alpi157/sentinel-entra-identity-detection-response) | Offline-first SOC-style pipeline using Entra-shaped telemetry (SigninLogs/AuditLogs), KQL detections, investigation workbook spec, SOAR-safe ticketing/enrichment, and a human-in-the-loop triage summary with confidence scoring. |
 | [SecureText Security Lab](https://github.com/Alpi157/securetext-security-lab/tree/main) | A security lab that upgrades an insecure Python chat app into a secure messaging system. Includes real attack demos and fixes: bcrypt password storage, HMAC integrity, TOTP MFA, GitHub OAuth, RBAC + Zero Trust session controls, logging/monitoring, and E2EE with ECDH + HKDF + AES-GCM + session key lifecycle. |
 | [Threat Detection & Investigation Using Splunk](https://github.com/Alpi157/soc-threat-detection-repo) | Mini-SOC homelab built with Splunk: ingest Windows Sysmon + Apache logs, simulate real attacks (SSH brute-force, web enumeration, POST exfiltration), detect them with SPL, dashboards, alerts, and an incident-response playbook. |
 | [Palo Alto NGFW Lab](https://github.com/Alpi157/paloalto-ngfw-lab) | Built a segmented Zero Trust topology and implemented App-ID policies, TLS inspection, URL filtering, AV, and IPS, then validated controls using an MS17-010 attack simulation in a DMZ environment. |
