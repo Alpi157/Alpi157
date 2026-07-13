@@ -1,6 +1,6 @@
 # Hi, I'm Alpar Arman 👋
 
-### Security & AI Engineer — I build detection, identity, and secure systems, and the production-minded AI that runs inside them.
+### Security & AI Engineer - I build detection, identity, and secure systems, and the production-minded AI that runs inside them.
 
 MEng graduate (University of Victoria, *Telecommunications & Information Security*) and Cybersecurity BSc. I work across **security engineering** — detection & response, identity, AppSec, DFIR — and build **production-minded AI/ML systems**. What I care about most sits where they meet: making AI agents and the systems around them **safe, observable, and trustworthy**.
 
