@@ -1,8 +1,10 @@
 # Hi, I'm Alpar Arman 👋
 
-### Security & AI Engineer - I build detection, identity, and secure systems, and the production-minded AI that runs inside them.
+### AI & Security Engineer — building LLM systems, security automation, and trustworthy AI for security operations.
 
-MEng graduate (University of Victoria, *Telecommunications & Information Security*) and Cybersecurity BSc. I work across **security engineering**: detection & response, identity, AppSec, DFIR and build **production-minded AI/ML systems**. What I care about most sits where they meet: making AI agents and the systems around them **safe, observable, and trustworthy**.
+MEng graduate from the University of Victoria with a BSc in Cybersecurity. I currently build **AI-assisted systems for security operations**, working across Python, LLM integration, retrieval, enterprise APIs, and security-focused AI controls. My broader background spans identity, detection, AppSec, DFIR, and applied ML.
+
+I’m especially interested in the intersection of **AI engineering and cybersecurity**: building systems that are useful to analysts while remaining evidence-grounded, observable, and difficult to misuse.
 
 <p>
   <a href="https://www.linkedin.com/in/alpar-arman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
@@ -16,7 +18,7 @@ MEng graduate (University of Victoria, *Telecommunications & Information Securit
 ## 🚀 Currently building
 
 - **🔒 Provable Safety for LLM Agents over MCP** — *in progress, public soon.* A non-bypassable **reference-monitor** for LLM agents acting over the Model Context Protocol: OPA/Rego policy enforcement at the tool boundary, provenance labeling, capability checks, an **Alloy** model for formal safety properties, and evaluation against prompt injection with **AgentDojo**. Enforces safety at the tool boundary instead of trusting the model to self-police.
-- **🧠 [memory-service](https://github.com/Alpi157/memory-service)** — *just shipped.* A memory layer for AI agents: ingests conversation turns, extracts typed & time-stamped beliefs, resolves contradictions deterministically at write time, and packs a token-budgeted context block for the next turn. Python 3.12 · FastAPI · PostgreSQL 16 (pgvector HNSW + FTS + a claim graph in one transactional plane). **100% on its recall eval, 43 passing tests.**
+- **🧠 [memory-service](https://github.com/Alpi157/memory-service)** — A memory layer for AI agents: ingests conversation turns, extracts typed & time-stamped beliefs, resolves contradictions deterministically at write time, and packs a token-budgeted context block for the next turn. Python 3.12 · FastAPI · PostgreSQL 16 (pgvector HNSW + FTS + a claim graph in one transactional plane). **100% on its recall eval, 43 passing tests.**
 
 ---
 
@@ -105,6 +107,8 @@ The fastest way to see how I build, across both tracks:
 
 ## 💼 Experience
 
+- **AI Engineer — AI Security & SOC Automation, DQ** *(Jul 2026 – Present)*  
+  Building AI-assisted investigation and triage systems for security operations using **Python, LLM APIs, IBM QRadar SIEM/SOAR, enterprise APIs, structured outputs, retrieval, and evidence-grounded verification**. Work focuses on helping analysts investigate alerts faster while keeping model output traceable, privacy-aware, and constrained by deterministic security controls.
 - **IT Administrator (Co-op), Carbon Engineering — Squamish, BC** *(Sep 2025 – Apr 2026)*
   Identity & access operations in **Entra ID / M365** (onboarding, offboarding, JML, MFA, account recovery), access-request documentation and SOPs, and testing/troubleshooting a **Copilot service-desk chatbot** plus SharePoint knowledge-retrieval workflows.
 - **AI Solutions Developer — Freelance** *(2023 – 2024)*
